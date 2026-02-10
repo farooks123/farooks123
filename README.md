@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mohammed Umar Farook 👋
 
-<!--
-**farooks123/farooks123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer | MERN & Java | Problem Solver  
 
-Here are some ideas to get you started:
+I specialize in building scalable applications using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Java, Spring Boot, Hibernate, Node.js, Express.js  
+- **Database:** MySQL, MongoDB  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Tools:** Git, Postman, VS Code, Eclipse  
+
+---
+
+## 🔨 Projects
+- 🍔 **Swiggy Clone** – Food delivery app with JWT authentication & restaurant APIs (MERN).  
+- 🎓 **Student Management System** – CRUD operations with optimized MongoDB queries (MERN).  
+- 📊 **TradeShift Portfolio Simulator** – Investment tracker with Spring Boot & MySQL.  
+- 🎬 **Movies REST API** – CRUD operations for movie data (Java + Spring Boot).  
+- 🌱 **Cotton Leaf Detection** – CNN-based ML project using Python, TensorFlow, OpenCV.  
+
+---
+
+## 📫 Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-farook-73793b265/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/farooks123)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mohammedumar.farook.92)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://your-portfolio-link.com
