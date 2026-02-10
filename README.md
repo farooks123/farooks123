@@ -25,4 +25,4 @@ I specialize in building scalable applications using:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-farook-73793b265/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/farooks123)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mohammedumar.farook.92)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)]( https://farooks123.github.io/farooks123/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)]( https://farooks123.github.io/portfolio/)
